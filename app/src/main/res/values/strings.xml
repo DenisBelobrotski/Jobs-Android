@@ -1,0 +1,29 @@
+<resources>
+  <string name="app_name">Jobs</string>
+  <string name="add_job">Добавить вакансию</string>
+  <string name="add_phone">Добавить телефон</string>
+  <string name="search_job_hint">Название работы</string>
+  <string name="salary_contract">Договорная</string>
+  <string name="salary_only_from">От %s р.</string>
+  <string name="salary_only_to">До %s р.</string>
+  <string name="salary_from_to">От %s до %s р.</string>
+  <string name="show_contacts">Показать контакты</string>
+  <string name="home_delete">Удалить вакансию</string>
+  <string name="job_experience_yes">Наличие опыта обязательно</string>
+  <string name="job_experience_no">Наличие опыта необязательно</string>
+  <string name="job_full_workday_yes">Полный рабочий день</string>
+  <string name="job_full_workday_no">Неполный рабочий день</string>
+  <string name="insertion_title">Название должности</string>
+  <string name="insertion_description">Описание</string>
+  <string name="insertion_company">Компания</string>
+  <string name="insertion_company_location">Расположение компании</string>
+  <string name="insertion_experience_required">Наличие опыта обязательно</string>
+  <string name="insertion_experience_not_required">Наличие опыта не обязательно</string>
+  <string name="insertion_work_day">Полный рабочий день</string>
+  <string name="insertion_experience">Наличие опыта работы</string>
+  <string name="insertion_salary">Зарплата в BYN</string>
+  <string name="insertion_from">От</string>
+  <string name="insertion_to">До</string>
+  <string name="insertion_contact_name">Имя контакта</string>
+  <string name="insertion_contact">Телефон</string>
+</resources>
